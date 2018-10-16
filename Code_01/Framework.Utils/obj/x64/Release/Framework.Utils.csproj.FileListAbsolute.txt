@@ -1,0 +1,6 @@
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Framework.Utils\bin\x64\Release\Framework.Utils.dll
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Framework.Utils\bin\x64\Release\Framework.Utils.pdb
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Framework.Utils\obj\x64\Release\Framework.Utils.csprojAssemblyReference.cache
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Framework.Utils\obj\x64\Release\Framework.Utils.csproj.CoreCompileInputs.cache
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Framework.Utils\obj\x64\Release\Framework.Utils.dll
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Framework.Utils\obj\x64\Release\Framework.Utils.pdb

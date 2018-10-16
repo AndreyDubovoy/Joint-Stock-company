@@ -1,0 +1,2 @@
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Business\Business\obj\Release\Business.csprojAssemblyReference.cache
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\Business\Business\obj\Release\Business.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Private\Anrew.Dubowoy\DB-SQLite\Code\Framework.Utils\bin\x64\Debug\Framework.Utils.dll
+C:\Private\Anrew.Dubowoy\DB-SQLite\Code\Framework.Utils\bin\x64\Debug\Framework.Utils.pdb
+C:\Private\Anrew.Dubowoy\DB-SQLite\Code\Framework.Utils\obj\x64\Debug\Framework.Utils.dll
+C:\Private\Anrew.Dubowoy\DB-SQLite\Code\Framework.Utils\obj\x64\Debug\Framework.Utils.pdb

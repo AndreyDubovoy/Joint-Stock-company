@@ -1,0 +1,2 @@
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\WebApplication1\obj\Release\WebHolder.csprojAssemblyReference.cache
+D:\myprogram\JointStockCompany\JointStockCompany\Cloud\Code_01\Code_01\WebApplication1\obj\Release\WebHolder.csproj.CoreCompileInputs.cache
